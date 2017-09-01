@@ -1,0 +1,4 @@
+C:\Users\chengyi.tan\Desktop\Develop\Labs\SpecFlow\ExampleForSpecflow\ExampleForSpecflow\bin\Debug\ExampleForSpecflow.dll
+C:\Users\chengyi.tan\Desktop\Develop\Labs\SpecFlow\ExampleForSpecflow\ExampleForSpecflow\bin\Debug\ExampleForSpecflow.pdb
+C:\Users\chengyi.tan\Desktop\Develop\Labs\SpecFlow\ExampleForSpecflow\ExampleForSpecflow\obj\Debug\ExampleForSpecflow.dll
+C:\Users\chengyi.tan\Desktop\Develop\Labs\SpecFlow\ExampleForSpecflow\ExampleForSpecflow\obj\Debug\ExampleForSpecflow.pdb

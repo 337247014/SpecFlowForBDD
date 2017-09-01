@@ -1,0 +1,17 @@
+C:\Users\chengyi.tan\Desktop\Develop\Labs\SpecFlow\ExampleForSpecflow\Example.SpecFlow.Test\bin\Debug\Default.srprofile
+C:\Users\chengyi.tan\Desktop\Develop\Labs\SpecFlow\ExampleForSpecflow\Example.SpecFlow.Test\bin\Debug\Example.SpecFlow.Test.dll.config
+C:\Users\chengyi.tan\Desktop\Develop\Labs\SpecFlow\ExampleForSpecflow\Example.SpecFlow.Test\bin\Debug\Example.SpecFlow.Test.dll
+C:\Users\chengyi.tan\Desktop\Develop\Labs\SpecFlow\ExampleForSpecflow\Example.SpecFlow.Test\bin\Debug\Example.SpecFlow.Test.pdb
+C:\Users\chengyi.tan\Desktop\Develop\Labs\SpecFlow\ExampleForSpecflow\Example.SpecFlow.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chengyi.tan\Desktop\Develop\Labs\SpecFlow\ExampleForSpecflow\Example.SpecFlow.Test\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\chengyi.tan\Desktop\Develop\Labs\SpecFlow\ExampleForSpecflow\Example.SpecFlow.Test\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\chengyi.tan\Desktop\Develop\Labs\SpecFlow\ExampleForSpecflow\Example.SpecFlow.Test\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Users\chengyi.tan\Desktop\Develop\Labs\SpecFlow\ExampleForSpecflow\Example.SpecFlow.Test\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\chengyi.tan\Desktop\Develop\Labs\SpecFlow\ExampleForSpecflow\Example.SpecFlow.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chengyi.tan\Desktop\Develop\Labs\SpecFlow\ExampleForSpecflow\Example.SpecFlow.Test\obj\Debug\Example.SpecFlow.Test.dll
+C:\Users\chengyi.tan\Desktop\Develop\Labs\SpecFlow\ExampleForSpecflow\Example.SpecFlow.Test\obj\Debug\Example.SpecFlow.Test.pdb
+C:\Users\chengyi.tan\Desktop\Develop\Labs\SpecFlow\ExampleForSpecflow\Example.SpecFlow.Test\bin\Debug\ExampleForSpecflow.dll
+C:\Users\chengyi.tan\Desktop\Develop\Labs\SpecFlow\ExampleForSpecflow\Example.SpecFlow.Test\bin\Debug\ExampleForSpecflow.pdb
+C:\Users\chengyi.tan\Desktop\Develop\Labs\SpecFlow\ExampleForSpecflow\Example.SpecFlow.Test\obj\Debug\Example.SpecFlow.Test.csprojResolveAssemblyReference.cache
+C:\Users\chengyi.tan\Desktop\Develop\Labs\SpecFlow\ExampleForSpecflow\Example.SpecFlow.Test\bin\Debug\nunit.framework.dll
+C:\Users\chengyi.tan\Desktop\Develop\Labs\SpecFlow\ExampleForSpecflow\Example.SpecFlow.Test\bin\Debug\nunit.framework.xml
